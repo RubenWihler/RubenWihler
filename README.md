@@ -37,6 +37,5 @@ Here are some ideas to get you started:
 
 ## Algorithm
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RubenWihler&repo=MergeSortAlgorithm)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RubenWihler&repo=MergeSort)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RubenWihler&repo=A_star_project)](https://github.com/anuraghazra/github-readme-stats)
 
