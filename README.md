@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenWihler&exclude_repo=github-readme-stats,RubenWihler.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenWihler&exclude_repo=github-readme-stats,RubenWihlerTransparent-Notpad)
